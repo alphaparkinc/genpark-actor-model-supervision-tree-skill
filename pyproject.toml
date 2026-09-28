@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-actor-model-supervision-tree-skill"
+version = "1.0.0"
+description = "Erlang/OTP-style GenServer Actor model with isolated mailboxes, synchronous call, and one-for-one supervisor restart"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
