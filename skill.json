@@ -1,0 +1,20 @@
+{
+  "name": "genpark-actor-model-supervision-tree-skill",
+  "version": "1.0.0",
+  "description": "Erlang/OTP-style GenServer Actor model with isolated mailboxes, synchronous call, and one-for-one supervisor restart",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "actor-model",
+    "supervision-tree",
+    "erlang-otp",
+    "message-passing",
+    "genserver",
+    "actor-system",
+    "python-standard-library",
+    "agent-skills",
+    "fault-tolerant",
+    "isolated-concurrency"
+  ]
+}
